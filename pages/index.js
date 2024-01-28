@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Chagas, sai do meu site!</h1>;
+  return <h1>Em breve o Compare.com, aguarde as novidades!</h1>;
 }
 
 export default Home;
